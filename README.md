@@ -1,6 +1,6 @@
 # Branch presets
 
-This is basically a copy of [Kamsar's branch presets] (https://github.com/kamsar/BranchPresets "Kamsar's branch presets") but wrapped into a nuget package for reusability.
+This is basically a copy of [Kamsar's branch presets](https://github.com/kamsar/BranchPresets "Kamsar's branch presets") but wrapped into a nuget package for reusability.
 
 ## Install nuget package
 
